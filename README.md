@@ -6,5 +6,5 @@ This is the backend for punch in and punch out system
 
 ```
 1. npm install
-2. nodemon --env-file=.env
+2. npm run start
 ```
